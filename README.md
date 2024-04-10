@@ -1,22 +1,18 @@
 # NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-Project implemented by: 
+
+Name:Mona Fathima S
 
 
-Name:
+ID:au960221104076
 
 
-ID:
+College name:Arunachala college of engineering for women
 
 
-College name:
+username:rexlincse25@gmail.com
 
 
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password:rexcy1208#
 
